@@ -5,3 +5,4 @@ Integrantes:
 
 Pedro Pereira  RM: 552047
 Miguel Ruan    RM: 551239
+Ricardo Akira  RM: 551447
